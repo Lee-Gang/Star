@@ -1,2 +1,6 @@
 1231xz2c-6z46xc-
+<<<<<<< HEAD
 from master
+=======
+from bug
+>>>>>>> bug
